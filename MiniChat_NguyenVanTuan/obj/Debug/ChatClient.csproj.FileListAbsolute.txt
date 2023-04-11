@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.exe.config
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.exe
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.pdb
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.Properties.Resources.resources
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.exe
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.pdb
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.Form_Client.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.exe.config
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\bin\Debug\MiniChat_NguyenVanTuan.pdb
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.Form_Client.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.Properties.Resources.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\MiniChat_NguyenVanTuan\obj\Debug\MiniChat_NguyenVanTuan.pdb

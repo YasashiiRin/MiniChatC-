@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.exe.config
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.exe
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.pdb
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.Properties.Resources.resources
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.exe
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.pdb
+C:\Users\HP\source\repos\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.Form_Server.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.Form_Server.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.Properties.Resources.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.GenerateResource.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\obj\Debug\ChatSever.pdb
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.exe.config
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\MiniChat_NguyenVanTuan\ChatSever\bin\Debug\ChatSever.pdb
